@@ -96,11 +96,17 @@
 
 })(jQuery);
 
-var slider = document.getElementById("myRange");
-var output = document.getElementById("demo");
-output.innerHTML = slider.value; // Display the default slider value
+var slideIndex = 0;
+showSlides();
 
-// Update the current slider value (each time you drag the slider handle)
-slider.oninput = function () {
-    output.innerHTML = this.value;
+function showSlides() {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    slideIndex++;
+    if (slideIndex > slides.length) { slideIndex = 1 }
+    slides[slideIndex - 1].style.display = "block";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
 }
