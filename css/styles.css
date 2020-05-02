@@ -97,54 +97,45 @@
         /* bottom, image */
         url(../images/react.png);
 }
-
 .xop-img-5 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/angular.png);
+}
+
+.xop-img-6 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
         url(../images/visualbasic.jpg);
 }
-.xop-img-6 {
+.xop-img-7 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
         url(../images/python.jpg);
 }
-.xop-img-7 {
+.xop-img-8 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
         url(../images/java.jpg);
 }
 
-.xop-img-8 {
-    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
-        /* bottom, image */
-        url(../images/c++);
-}
-
 .xop-img-9 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/feather.jpg);
+        url(../images/c++.jpg);
 }
 
 .xop-img-10 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/feather.jpg);
+        url(../images/csharp.jpg);
 }
 
 .xop-img-11 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/feather.jpg);
+        url(../images/swift.png);
 }
-
-
-
-
-
-
-
-
 
 
 
