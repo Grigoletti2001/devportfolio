@@ -77,26 +77,76 @@
 .xop-img-1 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/paint.jpg);
+        url(../images/html.png);
 }
 
 .xop-img-2 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/soap.jpg);
+        url(../images/htmlgame.jpg);
 }
 
 .xop-img-3 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
-        url(../images/flower.jpg);
+        url(../images/express.png);
 }
 
 .xop-img-4 {
     background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
         /* bottom, image */
+        url(../images/react.png);
+}
+
+.xop-img-5 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/visualbasic.jpg);
+}
+.xop-img-6 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/python.jpg);
+}
+.xop-img-7 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/java.jpg);
+}
+
+.xop-img-8 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/c++);
+}
+
+.xop-img-9 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
         url(../images/feather.jpg);
 }
+
+.xop-img-10 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/feather.jpg);
+}
+
+.xop-img-11 {
+    background: linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)),
+        /* bottom, image */
+        url(../images/feather.jpg);
+}
+
+
+
+
+
+
+
+
+
+
 
 .xop-info {
     position: absolute;
